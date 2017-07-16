@@ -17,10 +17,7 @@
 title: PyData Delhi Blog
 email: pydatadelhi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  PyData network promotes discussion of best practices, new approaches,
-  and emerging technologies for data management, processing, analytics, and
-  visualization. PyData communities approach data science using many languages,
-  including (but not limited to) Python, Julia, and R.
+    Official Blog for PyData Delhi
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://pydatadelhi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pydatadelhi
