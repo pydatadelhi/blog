@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  PyData Delhi Conference 2017 : An introduction
-date:   2017-07-11 15:48:31 +0530
+date:   2017-07-11
 categories: python pydata conference
 ---
 
