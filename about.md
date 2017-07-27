@@ -6,9 +6,9 @@ permalink: /about/
 
 **PyData Delhi** is a gathering of users and developers of data analysis tools in Python. 
 A major goal of the meetup is to provide a venue for users across all the various domains of data analysis to share their experiences and their techniques, as well as highlight the most triumphs and potential pitfalls of using Python for certain kinds of problems. 
-Visit [the meetup page](meetup.com/PyDataDelhi) or search for `#pydatadelhi` at Twitter to find out more and to see the many upcoming PyData events. 
+Visit [the meetup page](https://meetup.com/PyDataDelhi) or search for `#pydatadelhi` at Twitter to find out more and to see the many upcoming PyData events. 
 
-- [Meetup](meetup.com/PyDataDelhi)
+- [Meetup](https://meetup.com/PyDataDelhi)
 - [Twitter](https://twitter.com/PyDataDelhi)
 - [Facebook](http://fb.com/pydatadelhi)
 
@@ -17,7 +17,7 @@ Visit [the meetup page](meetup.com/PyDataDelhi) or search for `#pydatadelhi` at 
 
 **PyData Delhi 2017** is the first ever edition of PyData Conference to be organized in India. It will be held in Delhi, India on 2-3 September 2017. PyData Delhi 2017 will provide a meeting place where data scientists and engineers could join efforts, aiming at establishing a strong PyData community in India. 
 
-More info at [pydata.org/delhi2017](pydata.org/delhi2017)
+More info at [pydata.org/delhi2017](https://pydata.org/delhi2017)
 
 # NumFOCUS
 
