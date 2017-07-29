@@ -3,6 +3,7 @@ layout: post
 title:  'PyData Delhi Conference 2017: An introduction'
 date:   2017-07-11
 categories: python pydata conference
+permalink: /conf_introduction/
 ---
 
 **Date**: 11 July 2017
