@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Why be a part of PyData
+title:  Why be a Part of PyData
 date:   2017-07-22 
 categories: community pydata python
 permalink: /why_be_a_part_of_pydata/

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Announcing JetBrains as our Sponsor'
+title:  'Announcing JetBrains as our Supporting Sponsor'
 date:   2017-07-30
 categories: python pydata conference
 permalink: /announcing-jetbrains/

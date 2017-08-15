@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'PyData Delhi Conference 2017: An introduction'
+title:  'PyData Delhi Conference 2017: An Introduction'
 date:   2017-07-11
 categories: python pydata conference
 permalink: /conf_introduction/

@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  'Accepted Talks'
+title:  'First Round of Accepted Talks have been Announced'
 date:   2017-08-14
 categories: python pydata conference
 permalink: /accepted_speakers/
 ---
 
-The first round of talk proposals have been finalized! The speakers selected and their talks are as follows:
+The first round of talk proposals have been finalized! The selected speakers and their talks are as follows:
 
 <style>
 table {
