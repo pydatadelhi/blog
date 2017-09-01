@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  'PyData Delhi Conference 2017: An Introduction'
-date:   2017-07-11
+title:  'Workshop details for PyData Delhi 2017'
+date:   2017-09-01
 categories: python pydata conference
-permalink: /conf_introduction/
+permalink: /workshop_details/
 ---
 You can find the details and prerequisite for each workshop below:
 
-##Machine Learning as a Service
-####*Anand Chitipothu*
+## 1. Machine Learning as a Service
+#### *Anand Chitipothu*
 
 Anand has been crafting beautiful software since a decade and half. He’s now building a data science platform, rorodata, which he recently co-founded. He regularly conducts advanced programming courses through Pipal Academy. He is co-author of web.py, a micro web framework in Python. He has worked at Strand Life Sciences and Internet Archive.
 
@@ -34,28 +34,28 @@ https://github.com/amitkaps/full-stack-data-science
 
 ------
 
-##Geospatial data science and analysis using ArcGIS API for Python
-####*Rohit Singh*
+## 2. Geospatial data science and analysis using ArcGIS API for Python
+#### *Rohit Singh*
 
 Rohit Singh is the lead developer of ArcGIS API for Python, at Esri, the world leader in GIS.
- 
+
 Rohit graduated from IIT Kharagpur with a degree in Architecture and has extensive experience and passion in the field of software design and development. In a rich career spanning over 18 years, Rohit has worked for large and small companies, including startups as well as global technology behemoths such as IBM and TCS. For the past 15 years, he has worked as a lead software architect and API designer at Esri, the world leader in GIS, and been instrumental in the design and development of several industry leading GIS products such as ArcGIS Engine, ArcGIS Enterprise and the ArcGIS API for Python. He frequently presents at conferences around the world, showcasing the latest developments in the field of geospatial analysis and technology.
- 
+
 **Workshop abstract:**
 Analysts and data scientists can use the ArcGIS API in combination with data science libraries in Python for mapping, visualization and geospatial data analysis. This live-demo style talk will demonstrate how to perform sophisticated vector and raster analysis, geocoding, map making, routing and directions using a Pythonic API along with Jupyter notebooks and Pandas.
- 
+
 **Software Requirements:**
 Python 3.5 or 3.6 and Anaconda installed
 
 ---------
 
 
-##Introduction to Julia Programming
-####*Sandeep Nagar*
+## 3. Introduction to Julia Programming
+#### *Sandeep Nagar*
 
 Dr. Sandeep Nagar has done PhD in Material Science and Engineering from The Royal Institute of Technology (KTH), Sweden in 2012. With 13+ years of research experience in nanotechnology and electronics, he is presently working as Faculty in-charge of Electrical and Electronics Engineering Department at G D Goenka University. He has authored 5 books(https://www.amazon.com/author/sandeepnagar) on MATLAB and its open source alternatives like Python, Octave, SCILAB and Julia. His interest includes using embedded system and IoT configurations to design experiments to study interesting Physical phenomenons and simulate them using Python and/or Julia.
 
-**Workshop abstract:** 
+**Workshop abstract:**
 Presently workshop will introduce Julia programming language which "Walks like Python and Runs like C" because it is written with simplicity of python but rival execution speed of C language. Workshop will illustrate basic structure of objects, usage of methods, defining loops and functions.
 
 **Software requirements:**
@@ -73,8 +73,8 @@ Also the repository for relevant code files (Jupyter Notebooks) will be https://
 
 -----------
 
-##Create a sense2vec model using Gensim and Spacy from scraped news data and integrate it with Flask
-####*Tanu Mittal, Abhishek Kapoor*
+## 4. Create a sense2vec model using Gensim and Spacy from scraped news data and integrate it with Flask
+#### *Tanu Mittal, Abhishek Kapoor*
 
 *Abhishek Kapoor*
 Software engineer who likes to contribute and work with open source and free softwares. Always eager to try new things.
@@ -82,30 +82,30 @@ Software engineer who likes to contribute and work with open source and free sof
 *Tanu Mittal*
 An avid coder with a strong interest in projects that require both conceptual and analytical thinking. Fully-committed to develop using Free & Open Source Tools.
 
-**Workshop abstract:** 
-This workshop will make users understand how to model multiple embeddings (senses) for a word using NLP techniques. 
+**Workshop abstract:**
+This workshop will make users understand how to model multiple embeddings (senses) for a word using NLP techniques.
 
-**Software Requirements:** 
+**Software Requirements:**
 Python 3, VirtualENV, Git setup
 
 -------------
 
-##Visual Storytelling with D3
-####*Alok Kumar Shukla*
+## 5. Visual Storytelling with D3
+#### *Alok Kumar Shukla*
 
-After graduating from NIT Allahabad in 2009 with a Bachelors Degree in Information Technology, I have been building intelligent software product suites at enterprise scale. I bring machine learning capabilities to well established product suites in electronic content and business process management verticals. I have also helped build an in-house data analytics framework that enables creation, testing, evaluation and export of  machine learning models in a much more streamlined way than the traditional ad-hoc approach. 
+After graduating from NIT Allahabad in 2009 with a Bachelors Degree in Information Technology, I have been building intelligent software product suites at enterprise scale. I bring machine learning capabilities to well established product suites in electronic content and business process management verticals. I have also helped build an in-house data analytics framework that enables creation, testing, evaluation and export of  machine learning models in a much more streamlined way than the traditional ad-hoc approach.
 Apart from that, I am a graduate student at first cohort of Data Science masters program offered by University of Illinois Urbana–Champaign in partnership with Coursera. I expect to graduate by Summer 2018. I've taken up classes on Distributed Systems, Methods of Applied Statistics, Text Information Systems, Theory and Practice of Data Cleaning and Data Visualisation. Winter of 2017, I also took Natural Language Processing with Deep Learning class at Stanford as a non-degree student.
 
 If you're passionate about open learning, doing data science the right way; we should connect.
 
 Workshop abstract: If you’re looking for an edge in your resume as a Data Scientist; Data Visualisation is THE skill to add. And, thats not just because it helps in the most crucial part of whole Data Science process - presentation of your results but also because sometimes all you need with your data is a powerful sense of storytelling and a tool to help you achieve just that. Join me in getting your hands dirty with most beautiful library for visual storytelling on the web.
 
-Software Requirements: The attendees should be familiar with basic HTML, CSS and JavaScript. Any Mac/ PC with fairly recent installation of Chrome is required. Choose your favourite code editor - Sublime/ Atom/ Brackets.  Will need internet access to download D3.js . 
+Software Requirements: The attendees should be familiar with basic HTML, CSS and JavaScript. Any Mac/ PC with fairly recent installation of Chrome is required. Choose your favourite code editor - Sublime/ Atom/ Brackets.  Will need internet access to download D3.js .
 
 ---------------------
 
-##Deep Reinforcement Learning: A hands-on approach
-####*Shubham Dokania*
+## 6. Deep Reinforcement Learning: A hands-on approach
+#### *Shubham Dokania*
 
 Shubham Dokania is current a Researcher at CVIT IIIT-H, supervised by Dr. C.V. Jawahar and Dr. Girish Verma. Previously he was a Machine Learning Instructor at Coding Blocks and Research Intern at IIITD (supervised by Dr. Ganesh Bagler). His current research focus lies in the field of Reinforcement Learning and it's applications. Previously at Coding Blocks, he used to teach undergrad/grad students and industry professionals about the field of Machine Learning while trying to develop a research based thinking. Shubham has spoken at local meetups including PyData Delhi Meetup, DTU, IIITD, IIITH workshop sessions and bootcamps, and has several research articles published at reputed conferences.
 
