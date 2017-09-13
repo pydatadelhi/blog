@@ -15,3 +15,4 @@ If you don't know how to do that, just send us the link and we'll do it for you.
 - Priyank Trivedi: [PyData Delhi 2017 Recap](https://www.priyanktrivedi.org/blog/pydata-delhi-2017-recap/)
 - Mad Street Den: [Mad Street Den goes to PyData Delhi 2017](https://www.madstreetden.com/grey-matter/development/mad-street-den-goes-to-pydata-delhi-2017/)
 - Himanshu Awasthi on [his experience](https://kanpurpython.wordpress.com/2017/09/04/experience-of-pydata-delhi17/)
+- Gourav Chawla: [PyData Delhi 2017](https://gouravchawla.com/techdeviant/2017/09/pydata-delhi-2017.html)
