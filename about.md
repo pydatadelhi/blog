@@ -13,11 +13,11 @@ Visit [the meetup page](https://meetup.com/PyDataDelhi) or search for `#pydatade
 - [Facebook](http://fb.com/pydatadelhi)
 
 
-# PyData Delhi 2017
+# PyData Delhi 2018
 
-**PyData Delhi 2017** is the first ever edition of PyData Conference to be organized in India. It will be held in Delhi, India on 2-3 September 2017. PyData Delhi 2017 will provide a meeting place where data scientists and engineers could join efforts, aiming at establishing a strong PyData community in India. 
+**PyData Delhi 2018** is the second edition of PyData Conference to be organized in India. It will be held in Delhi, India on 11-12 August 2018. PyData Delhi 2018 will provide a meeting place where data scientists and engineers could join efforts, aiming at establishing a strong PyData community in India. 
 
-More info at [pydata.org/delhi2017](https://pydata.org/delhi2017)
+More info at [pydata.org/delhi2018](https://pydata.org/delhi2018)
 
 # NumFOCUS
 
@@ -33,6 +33,5 @@ We accomplish this mission through our educational programs and events as well a
 - [Laksh Arora](mailto:laksharora28@gmail.com)
 - [Arsh](mailto:programmer.arsh@gmail.com)
 - [Sanket Verma](mailto:svsanketverma5@gmail.com)
-- [Akul Mehra](mailto:mehra.akul@gmail.com)
 
 Want to get in touch? Email us at `pydatadelhi@gmail.com`
