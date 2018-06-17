@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  'Announcing Python Software Foundation as our Platinum Sponsor'
-date:   2017-07-30
+title:  'Announcing Python Software Foundation as our Gold Sponsor'
+date:   2018-06-17
 categories: python pydata conference
-permalink: /announcing-psf17/
+permalink: /announcing-psf/
 ---
 
 
-We are happy to announce [**Python Software Foundation**](https://www.python.org/psf/) as the Platinum sponsor for PyData Delhi 2017.
+We are happy to announce [**Python Software Foundation**](https://www.python.org/psf/) as the Gold sponsor for PyData Delhi 2018.
 <br>
 
 <center>
