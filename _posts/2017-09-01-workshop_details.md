@@ -3,7 +3,7 @@ layout: post
 title:  'Workshop details for PyData Delhi 2017'
 date:   2017-09-01
 categories: python pydata conference
-permalink: /workshop_details/
+permalink: /workshop_details_17/
 ---
 You can find the details and prerequisite for each workshop below:
 
