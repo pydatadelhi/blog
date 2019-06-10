@@ -19,15 +19,15 @@ If you also would like to share your knowledge about any technology or stack, in
 
 We would also like to take this opportunity to announce, that the tickets for the conference are now available. The ticket structure is as follows -  
 
-1. Early Bird Tickets : These will be available until --------- or the sale of ---- (number of tickets).They reserve your attendance at the conference at a price of **INR 1400/-**. Be sure to apply the code **EARLYBIRD** on the regular ticket to get yours!
+1. Early Bird Tickets : Be sure to apply the code **EARLYBIRD** on the regular ticket to get yours! They reserve your attendance at the conference at a price of **INR 1400/-**.
 
-2. Student Ticket : These tickets will be available until **02 August 2019** or the sale of ---- tickets.They reserve your attendance at the conference at a price of **INR 1000/-**.
+2. Student Ticket : These tickets will be available until **02 August 2019**.They reserve your attendance at the conference at a price of **INR 1000/-**.
 
 3. Regular Ticket : These tickets will be available until **02 August 2019**. They reserve your attendance at the conference at a price of **INR 1700/-**.
 
-4. Support Tickets : These tickets will be available until **02 August 2019** .They reserve your attendance at the conference at a price of **INR 6500/-**. The complete cost is donated towards the expenses of the conference.
+4. Support Tickets : These tickets will be available until **02 August 2019**.They reserve your attendance at the conference at a price of **INR 6500/-**. The complete cost is donated towards the expenses of the conference.
 
-4. Late Bird Tickets : These tickets will be available from **01 July 2019** .They reserve your attendance at the conference at a price of **INR ---- /-**
+4. Late Bird Tickets : These tickets will be available from **01 July 2019**.
 
 You may make the payment through any of the following methods -
 
