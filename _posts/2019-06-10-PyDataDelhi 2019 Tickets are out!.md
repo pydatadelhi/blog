@@ -21,9 +21,9 @@ We would also like to take this opportunity to announce, that the tickets for th
 
 1. Early Bird Tickets : Be sure to apply the code **EARLYBIRD** on the regular ticket to get yours! They reserve your attendance at the conference at a price of **INR 1400/-**.
 
-2. Student Ticket : They reserve your attendance at the conference at a price of **INR 1000/-**.
+2. Student Tickets : They reserve your attendance at the conference at a price of **INR 1000/-**.
 
-3. Regular Ticket : They reserve your attendance at the conference at a price of **INR 1700/-**.
+3. Regular Tickets : They reserve your attendance at the conference at a price of **INR 1700/-**.
 
 4. Support Tickets : They reserve your attendance at the conference at a price of **INR 6500/-**. The complete cost is donated towards the expenses of the conference.
 
