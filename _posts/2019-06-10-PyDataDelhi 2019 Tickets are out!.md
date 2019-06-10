@@ -11,23 +11,25 @@ permalink: /2019_tickets/
 Greetings from PyData Delhi!
 
 
-Fueled by the success of our past conferences, we are coming back with the **3rd edition of PyData Delhi Conference on 3rd - 4th August 2019** at **IIIT Delhi**. For more information about our conference series, please visit https:delhi.pydata.org. 
+Fueled by the success of our past conferences, we are coming back with the **3rd edition of PyData Delhi Conference on 3rd - 4th August 2019** at **IIIT Delhi**. For more information about our conference series, please visit https://pydata.org/delhi2019.
 
 If you also would like to share your knowledge about any technology or stack, including but not limited to **Python, Artificial Intelligence, Deep Learning, Developer tools, Web development and Network & Security**, we are thrilled to **invite you as a speaker** to PyData Delhi.
 
-> With regards to the same, the call for proposals is now live and will be open until **30th June 2019**.   
+> With regards to the same, the call for proposals is now live and will remain open until **30th June 2019**.
 
-We would also like to take this opportunity to announce, that the tickets for the conference are now available. The ticket structure is as follows -  
+We would also like to take this opportunity to announce, that the tickets for the conference are now available. The ticket structure is as follows -
 
 1. Early Bird Tickets : Be sure to apply the code **EARLYBIRD** on the regular ticket to get yours! They reserve your attendance at the conference at a price of **INR 1400/-**.
 
-2. Student Ticket : These tickets will be available until **02 August 2019**.They reserve your attendance at the conference at a price of **INR 1000/-**.
+2. Student Ticket : They reserve your attendance at the conference at a price of **INR 1000/-**.
 
-3. Regular Ticket : These tickets will be available until **02 August 2019**. They reserve your attendance at the conference at a price of **INR 1700/-**.
+3. Regular Ticket : They reserve your attendance at the conference at a price of **INR 1700/-**.
 
-4. Support Tickets : These tickets will be available until **02 August 2019**.They reserve your attendance at the conference at a price of **INR 6500/-**. The complete cost is donated towards the expenses of the conference.
+4. Support Tickets : They reserve your attendance at the conference at a price of **INR 6500/-**. The complete cost is donated towards the expenses of the conference.
 
-4. Late Bird Tickets : These tickets will be available from **01 July 2019**.
+4. Late Bird Tickets : These tickets will be available from **01 July 2019**. They reserve your attendance at the conference at a price of **INR 2500/-**.
+
+> Please note that these prices are exclusive of Explara fee.
 
 You may make the payment through any of the following methods -
 
