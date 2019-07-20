@@ -35,6 +35,6 @@ If you are unable to find an interested person to transfer your ticket, then you
 See you there. 
 Cheers !
 
-Written by [**Aditi Tibarewal**](https://in.linkedin.com/in/harshita-diddee) and [**Khushal Vyas**](https://www.linkedin.com/in/khushal-vyas-222829156/)
+Written by [**Aditi Tibarewal**](https://www.linkedin.com/in/aditi-tibarewal-8b8961188) and [**Khushal Vyas**](https://www.linkedin.com/in/khushal-vyas-222829156/)
 
 -PyData Delhi Team
