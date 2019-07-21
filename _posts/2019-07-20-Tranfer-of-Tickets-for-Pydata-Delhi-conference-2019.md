@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  'Call out for people who are willing to transfer their tickets for the upcoming Pydata Delhi Conference 2019.'
-date:   2019-07-20
+title:  'Call out for people who are willing to transfer their tickets'
+date:   2019-07-21
 categories: python pydata conference tickets transfer
 permalink: /2019_tranferTickets/
 ---
 
-**Date**: 20 July 2019
+**Date**: 21 July 2019
 
 Greetings from PyData Delhi!
 
@@ -32,7 +32,8 @@ On successful completion of the above steps, we’ll transfer the ticket from ou
 
 If you are unable to find an interested person to transfer your ticket, then you can leverage the community group option on telegram as there you would find a lot of people keen on buying a ticket. Here is the link to join the **Pydata Telegram channel** : https://t.me/joinchat/B71pNUGrUQ7QHuyUJq-Ajg
 
-See you there. 
+See you there.
+
 Cheers !
 
 Written by [**Aditi Tibarewal**](https://www.linkedin.com/in/aditi-tibarewal-8b8961188) and [**Khushal Vyas**](https://www.linkedin.com/in/khushal-vyas-222829156/)
