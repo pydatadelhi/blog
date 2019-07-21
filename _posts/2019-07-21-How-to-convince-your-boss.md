@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'How to convince your Boss for letting you attend the 2019 Conference'
-date:   2019-07-22
+date:   2019-07-21
 categories: python pydata conference Boss
 permalink: /2019_dealWithBoss/
 ---
