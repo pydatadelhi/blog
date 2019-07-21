@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Call out for people who are willing to transfer their tickets'
+title:  'Conference ticket transfer process PyData Conference - 2019'
 date:   2019-07-21
 categories: python pydata conference tickets transfer
 permalink: /2019_tranferTickets/
@@ -30,7 +30,7 @@ On receiving the complete amount (Price of the ticket + taxes you paid us) from 
 
 On successful completion of the above steps, we’ll transfer the ticket from our system and send both of you (A, B) a confirmation email.
 
-If you are unable to find an interested person to transfer your ticket, then you can leverage the community group option on telegram as there you would find a lot of people keen on buying a ticket. Here is the link to join the **Pydata Telegram channel** : https://t.me/joinchat/B71pNUGrUQ7QHuyUJq-Ajg
+If you are unable to find an interested person to transfer your ticket, then you can leverage the community group option on telegram as there you would find a lot of people keen on buying a ticket. Here is the link to join the **Pydata Telegram channel** : https://bit.do/joinpydd
 
 See you there.
 
