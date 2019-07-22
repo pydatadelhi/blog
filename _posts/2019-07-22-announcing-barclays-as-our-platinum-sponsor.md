@@ -19,7 +19,7 @@ We are proud to announce [**Barclays**](https://home.barclays) as our **Platinum
 
 Each year, PyData Delhi brings together an audience of more than 450 data science scientists, programmers, and professionals at a single platform: The PyData Delhi Conference. This flagship conference is proudly supported by a set of incredible sponsors who share equal credit in making this event a huge success. 
 
-Barclays lends, invests and protects money for customers and clients worldwide. They are a transatlantic consumer, corporate and investment bank offering products and services across Personal, Corporate and Investment Banking, Credit cards and Wealth management.
+We are proud to present Barclays as our Platinum Sponsor. Barclays lends, invests and protects money for customers and clients worldwide. They are a transatlantic consumer, corporate and investment bank offering products and services across Personal, Corporate and Investment Banking, Credit cards and Wealth management.
 
 Barclays India, like its global counterparts, also provides comprehensive financial advisory, capital raising, financing and risk management services to corporations, governments and financial institutions.
 

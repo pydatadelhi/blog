@@ -17,7 +17,7 @@ We are proud to announce [**Elastic**](https://www.elastic.co/) as our **Silver 
 <br>
 Each year, PyData Delhi brings together an audience of more than 450 data science scientists, programmers, and professionals at a single platform: The PyData Delhi Conference. This flagship conference is proudly supported by a set of incredible sponsors who share equal credit in making this event a huge success. 
 
-Elastic, supporting us in the capacity of a Silver sponsor, is the company behind the Elastic Stack — that’s Elasticsearch, Kibana, Beats, and Logstash. Bringing some of the most reliable, scalable and fast architectures to the open-source community, companies around the world are relying on Elasticsearch to solve a variety of challenges.
+Elastic is supporting us as a Silver sponsor, is the company behind the Elastic Stack — that’s Elasticsearch, Kibana, Beats, and Logstash. Bringing some of the most reliable, scalable and fast architectures to the open-source community, companies around the world are relying on Elasticsearch to solve a variety of challenges.
 
 We deeply value their contribution in helping us organize this conference and thank them for their support in sustaining the stature of this marque conference!
 
