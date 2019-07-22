@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  'Announcing Barclays as our platinum Sponsor!'
-date:   2019-07-22
+date:   2019-07-21
 categories: python pydata conference sponsor platinum
 permalink: /barclays_platinum_sponsor/
 ---
 
 
-**Date**: 22 July 2019
+**Date**: 21 July 2019
 
 We are proud to announce [**Barclays**](https://home.barclays) as our **Platinum Sponsor** for PyData Delhi 2019!
 
@@ -17,7 +17,7 @@ We are proud to announce [**Barclays**](https://home.barclays) as our **Platinum
 </center>
 <br>
 
-Each year, PyData Delhi brings together an audience of more than 450 data science scientists, programmers, and professionals at a single platform: The PyData Delhi Conference. This flagship conference is proudly supported by a set of incredible sponsors who share equal credit in making this event a huge success. 
+Each year, PyData Delhi brings together an audience of more than 450 data science scientists, programmers, and professionals at a single platform: The PyData Delhi Conference. This flagship conference is proudly supported by a set of incredible sponsors who share equal credit in making this event a huge success.
 
 We are proud to present Barclays as our Platinum Sponsor. Barclays lends, invests and protects money for customers and clients worldwide. They are a transatlantic consumer, corporate and investment bank offering products and services across Personal, Corporate and Investment Banking, Credit cards and Wealth management.
 

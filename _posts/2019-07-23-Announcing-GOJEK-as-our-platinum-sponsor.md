@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  'Announcing GOJEK as our Platinum Sponsors'
-date:   2019-07-23
+date:   2019-07-19
 categories: python pydata conference sponsor platinum
 permalink: /2019_gojek/
 ---
 
-**Date**: 23 July 2019
+**Date**: 19 July 2019
 
 Each year, PyData Delhi brings together an audience of more than 450 data science scientists, programmers, and professionals at a single platform: The PyData Delhi Conference. This flagship conference is proudly supported by a set of incredible sponsors who share equal credit in making this event a huge success.
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  'Announcing O4S as our Silver Sponsor!'
-date:   2019-07-22
+date:   2019-07-18
 categories: python pydata conference sponsor silver
 permalink: /o4s_silver_sponsor/
 ---
 
 
-**Date**: 22 July 2019
+**Date**: 18 July 2019
 
 We are proud to announce [**O4S**](https://o4s.io) as our **Silver Sponsor** for PyData Delhi 2019!
 
@@ -17,7 +17,7 @@ We are proud to announce [**O4S**](https://o4s.io) as our **Silver Sponsor** for
 </center>
 <br>
 
-Each year, PyData Delhi brings together an audience of more than 450 data science scientists, programmers, and professionals at a single platform: The PyData Delhi Conference. This flagship conference is proudly supported by a set of incredible sponsors who share equal credit in making this event a huge success. 
+Each year, PyData Delhi brings together an audience of more than 450 data science scientists, programmers, and professionals at a single platform: The PyData Delhi Conference. This flagship conference is proudly supported by a set of incredible sponsors who share equal credit in making this event a huge success.
 
 O4S is also contributing to the conference, as a silver sponsor. A SaaS-based technology startup, O4S enables companies to have a 360° control over their downstream supply chain via a suite of easily scalable desktop software and mobile apps. O4S is currently working with over 25 prominent brands including ITC Limited, PepsiCo Inc, etc.
 
