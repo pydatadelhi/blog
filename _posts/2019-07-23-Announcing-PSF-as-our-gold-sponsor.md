@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Announcing GOJEK as our Platinum Sponsors'
+title:  'Announcing PSF as our Gold Sponsors'
 date:   2019-07-23
-categories: python pydata conference Boss
-permalink: /2019_gojek/
+categories: python pydata conference sponsor gold
+permalink: /2019_psf/
 ---
 
 **Date**: 23 July 2019

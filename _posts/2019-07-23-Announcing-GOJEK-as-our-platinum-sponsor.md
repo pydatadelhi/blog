@@ -2,7 +2,7 @@
 layout: post
 title:  'Announcing GOJEK as our Platinum Sponsors'
 date:   2019-07-23
-categories: python pydata conference Boss
+categories: python pydata conference sponsor platinum
 permalink: /2019_gojek/
 ---
 
