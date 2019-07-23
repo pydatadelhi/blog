@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  'Announcing Barclays as our platinum Sponsor!'
-date:   2019-07-21
+date:   2019-07-19
 categories: python pydata conference sponsor platinum
 permalink: /barclays_platinum_sponsor/
 ---
 
 
-**Date**: 21 July 2019
+**Date**: 19 July 2019
 
 We are proud to announce [**Barclays**](https://home.barclays) as our **Platinum Sponsor** for PyData Delhi 2019!
 
