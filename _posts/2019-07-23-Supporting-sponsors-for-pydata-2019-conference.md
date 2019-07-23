@@ -8,9 +8,10 @@ permalink: /2019_sponsors/
 
 **Date**: 18 July 2019
 
-Each year, PyData Delhi brings together an audience of more than 450 data science scientists, programmers, and professionals at a single platform: The PyData Delhi Conference. This flagship conference is proudly supported by a set of incredible sponsors who share equal credit in making this event a huge success.
+Each year, PyData Delhi brings together an audience of more than 450 data science scientists, programmers, and professionals at a single platform: The PyData Delhi Conference. This flagship conference is proudly supported by a set of incredible sponsors who share equal credit in making this event a huge success.   
 
 Our supporting sponsors include [**StickerMule**](https://www.stickermule.com/custom-stickers) which provide the fastest and easiest way platform to buy custom printed products. Within days, they can convert your designs and illustrations into custom stickers, magnets, buttons, labels and packaging.
+
 
 <br>
 <center>
@@ -18,7 +19,7 @@ Our supporting sponsors include [**StickerMule**](https://www.stickermule.com/cu
 </center>
 <br>
 
-They are accompanied by [**Sketch**](https://www.sketch.com/), who provide an ultimate design tool,  entirely vector-based and focused on user interface design at a fraction of the price of Photoshop.
+They are accompanied by [**Sketch**](https://www.sketch.com/),who provide an ultimate design tool,  entirely vector-based and focused on user interface design at a fraction of the price of Photoshop.
 
 <br>
 <center>
