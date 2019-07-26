@@ -8,7 +8,7 @@ permalink: /2019_gojek/
 
 **Date**: 19 July 2019
 
-Each year, PyData Delhi brings together an audience of more than 450 data science scientists, programmers, and professionals at a single platform: The PyData Delhi Conference. This flagship conference is proudly supported by a set of incredible sponsors who share equal credit in making this event a huge success.
+Each year, PyData Delhi brings together an audience of more than 450 data science scientists, programmers, and professionals at a single platform: The PyData Delhi Conference. This flagship conference is proudly supported by a set of incredible sponsors who share equal credit in making this event a huge success. 
 
 [**GOJEK**](https://www.gojek.io/), one of our platinum sponsors, is widely known as a Super App. GOJEK’s one app for ordering food, commuting, digital payments, shopping, hyper-local delivery and two dozen services operates in 204 cities and regencies in five Southeast Asian countries.
 
