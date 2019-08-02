@@ -12,7 +12,7 @@ Greetings!
 
 Glad to know that you will be attending the PyData Delhi conference 2019.If you are planning to attend the workshops, here is a list of prerequisites that we would request you to have ready with you so that you can get the maximum of all that is being delivered at each workshop.
 
-1. **Quantitative Finance with R**
+**A.**  **Quantitative Finance with R**
 **About the speakers :**
 
 **Harshit Joshi** 
@@ -46,7 +46,7 @@ The tutorial is divided into various modules, with the first modules lucidly exp
 
 You can use the following code in the command prompt or R-console to install the packages: install.packages(c("tseries", "xts", “zoo”))
 
-2. **Tips, Tricks and Topics in Text Analysis**
+**B.**  **Tips, Tricks and Topics in Text Analysis**
 
 **About the speaker :**
 **Bhargav Srinivasa Desikan**
@@ -68,7 +68,7 @@ The purpose of the tutorial is to introduce the audience to the different source
 > 3. Gensim
 > 4. Keras
 
-3. **Advance ML- On Improving Performance of Machine Learning Models by Optimizing Hyper-parameters**
+**C.**  **Advance ML- On Improving Performance of Machine Learning Models by Optimizing Hyper-parameters**
 **Anubav Kesari and Tanay Agrawal**
 
 *About the Speakers :*
@@ -93,13 +93,13 @@ After attending this workshop you will be able to apply Hyper-parameter optimiza
 
 A Docker Image will be provided, so that no time is wasted in setting up the environment apart. 
 
-4.  **Machine Learning Security - The Data Scientist's Guide to Hardening ML Models**
+**D.** **Machine Learning Security - The Data Scientist's Guide to Hardening ML Models**
 **Arjun Bahuguna**
 
 **About the speaker:**
 Mr.Bahuguna is an applied cryptography researcher at Next Tech Lab, with a focus on privacy-enhancing technologies and machine learning security. Recently, he's been involved with applying cryptographic techniques for secure computation to machine learning systems. In the last three years, his research has been awarded with two ACM grants, two university gold medals for original research, and multiple Innovation awards at International hackathons. 
 
-Workshop description:
+*Workshop description:*
 
 The workshop will aim to provide in depth understanding of Machine Learning security in the following manner - 
 > 1. Introduction 
@@ -119,3 +119,6 @@ The detailed outline of the workshop can be found at : Outline
 1. Tensorflow 
 2. Pytorch 
 
+~ The PyData Delhi Organizing Committee
+
+Written by [**Harshita Diddee**](https://in.linkedin.com/in/harshita-diddee) and [**Khushal Vyas**](https://www.linkedin.com/in/khushal-vyas/)
