@@ -119,3 +119,6 @@ The detailed outline of the workshop can be found at : Outline
 1. Tensorflow 
 2. Pytorch 
 
+~ The PyData Delhi Organizing Committee
+
+Written by [**Harshita Diddee**](https://in.linkedin.com/in/harshita-diddee) and [**Khushal Vyas**](https://www.linkedin.com/in/khushal-vyas/)
