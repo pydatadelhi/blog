@@ -14,7 +14,7 @@ Hope the excitement for the conference is elevating!
 
 <br>
 <center>
-<img src="https://user-images.githubusercontent.com/19390263/62365714-634d7380-b542-11e9-9539-84c6dfb86eda.jpg" alt="schedule" style="width: 1000px;"/>
+<img src="https://user-images.githubusercontent.com/19390263/62365714-634d7380-b542-11e9-9539-84c6dfb86eda.jpg" alt="schedule" style="width: 1800px;"/>
 </center>
 <br>
 
