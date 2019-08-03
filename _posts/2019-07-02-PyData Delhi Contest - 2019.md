@@ -19,4 +19,3 @@ Summarise your favourite talk in around 100 words, your summarization will be us
 ## POP Quiz
 
 Test your knowledge of Python and the NumFOCUS/PyData stack by answering as many questions as you can in limited time. 
-
