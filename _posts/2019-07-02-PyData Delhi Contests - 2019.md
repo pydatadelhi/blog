@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  'PyData Delhi Contest - 2019'
+title:  'PyData Delhi Contests - 2019'
 date:   2019-08-03
 categories: python pydata conference contest
-permalink: /contest/
+permalink: /contests/
 ---
+
+**Winners of following contests will get extra swag and prizes.**
 
 ## Capture the Flag (CTF)
 
@@ -14,8 +16,10 @@ There are some hidden flags/messages you will find in different places during th
 
 ## Summarize Your Favourite Talk
 
-Summarise your favourite talk in around 100 words, your summarization will be used for youtube description and other content online. 
+Summarise your favourite talk in around 100 words.
+
 
 ## POP Quiz
 
 Test your knowledge of Python and the NumFOCUS/PyData stack by answering as many questions as you can in limited time. 
+
