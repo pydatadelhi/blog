@@ -33,13 +33,13 @@ https://drive.google.com/file/d/0ByxBkbdRctI9UGZQS05aM2xDM1djOTg0ZkxKVmJrSzJvdDU
 
 3. Intelligent recruitment using NLP and machine learning to identify the most suitable candidates                                 
 -  Victor Robin
-
-https://drive.google.com/file/d/1LX95-MiwmgrySnEPMvdHu6Cl38EhfRq3/view?usp=sharing
+ 
+    https://drive.google.com/file/d/1LX95-MiwmgrySnEPMvdHu6Cl38EhfRq3/view?usp=sharing
 
 4. Quantitative Finance with R                                 
 - Harshit Joshi, Vedant Bonde
 
-https://drive.google.com/file/d/1DWnsyRrBBHO4kgmYDBSVsfUt4Z-j3i8p/view?usp=sharing
+    https://drive.google.com/file/d/1DWnsyRrBBHO4kgmYDBSVsfUt4Z-j3i8p/view?usp=sharing
 
 
 
@@ -85,7 +85,8 @@ https://drive.google.com/file/d/1C6BzjoES9rW9f5Dl86bh3nClz5uXwpAe/view?usp=shari
 
 12. Automating Data Pipeline using Apache Airflow                                 
 - Mridu Bhatnagar
-https://drive.google.com/file/d/1I_zU-PubCUEBP5wegjcIbRfNglfj7MBs/view?usp=sharing
+ 
+   https://drive.google.com/file/d/1I_zU-PubCUEBP5wegjcIbRfNglfj7MBs/view?usp=sharing
 
 
 
@@ -97,8 +98,8 @@ https://drive.google.com/file/d/0ByxBkbdRctI9Ynd1Q1JPLXR0T3pKdW4wTkc3SkxRZVROVVB
 
 14. Tips, Tricks and Topics in Text Analysis
 
--Bhargav Srinivasa Desikan
-https://github.com/bhargavvader/personal/tree/master/notebooks/text_analysis_tutorial
+-  Bhargav Srinivasa Desikan
+    https://github.com/bhargavvader/personal/tree/master/notebooks/text_analysis_tutorial
 
 
 
