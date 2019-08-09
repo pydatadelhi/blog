@@ -4,7 +4,7 @@ layout: post
 
 title: 'Presentations of the PyData Delhi Conference 2019'
 
-date: 2019-08-01
+date: 2019-08-08
 
 categories: python pydata conference presentations
 
@@ -14,7 +14,7 @@ permalink: /2019-presentations/
 
   
 
-**Date**: 1  August 2019
+**Date**: 8 August 2019
 
   
   
