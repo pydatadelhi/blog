@@ -47,7 +47,7 @@ Find below the link to each presentation.
 
 - [Quantitative Finance with R](https://drive.google.com/file/d/1DWnsyRrBBHO4kgmYDBSVsfUt4Z-j3i8p/view?usp=sharing)
 
-    > By:  [Harshit Joshi](https://twitter.com/iharshitjoshi/), [**Vedant Bonde**](https://www.linkedin.com/in/vedant-bonde-0b2791135/)
+    > By:  [**Harshit Joshi**](https://twitter.com/iharshitjoshi/), [**Vedant Bonde**](https://www.linkedin.com/in/vedant-bonde-0b2791135/)
 
 <br>
 
@@ -148,7 +148,7 @@ Find below the link to each presentation.
 
 - [Advance ML- On Improving Performance of Machine Learning Models by Optimizing Hyper-parameters](https://slides.com/anubhavkesari/efficient-hyperparameter-optimization/fullscreen#/)
 
-    > By: [**Anubav kesari**](), Deep Learning Engineer - Exzeo , [**Tanay Agrawal**](https://twitter.com/agrawal_tanay/), Deep Learning Researcher - Curl Analytics
+    > By: [**Anubav kesari**](https://www.linkedin.com/in/kesarianubhav/), Deep Learning Engineer - Exzeo , [**Tanay Agrawal**](https://twitter.com/agrawal_tanay/), Deep Learning Researcher - Curl Analytics
 
 <br>
   
