@@ -41,13 +41,13 @@ Find below the link to each presentation.
 
 - [Intelligent recruitment using NLP and machine learning to identify the most suitable candidates](https://drive.google.com/file/d/1LX95-MiwmgrySnEPMvdHu6Cl38EhfRq3/view?usp=sharing)
 
-    > By: [**Victor Robin**](), Data Science Director - Dunnhumby
+    > By: [**Victor Robin**](https://www.linkedin.com/in/dr-victor-robin/?originalSubdomain=in), Data Science Director - Dunnhumby
 
 <br>
 
 - [Quantitative Finance with R](https://drive.google.com/file/d/1DWnsyRrBBHO4kgmYDBSVsfUt4Z-j3i8p/view?usp=sharing)
 
-    > By:  [Harshit Joshi](https://twitter.com/iharshitjoshi/), Vedant Bonde
+    > By:  [Harshit Joshi](https://twitter.com/iharshitjoshi/), [**Vedant Bonde**](https://www.linkedin.com/in/vedant-bonde-0b2791135/)
 
 <br>
 
@@ -102,7 +102,7 @@ Find below the link to each presentation.
 
 - [Python for Data Science /Machine Learning at Barclays (Sponsored Talk)](https://drive.google.com/file/d/0ByxBkbdRctI9Ynd1Q1JPLXR0T3pKdW4wTkc3SkxRZVROVVBv/view?usp=sharing)
 
-    > By: Rachita Das
+    > By: [**Rachita Das**](https://www.linkedin.com/in/rachita-das-589b899/), Vice President - Barclays
 	
 <br>
 
@@ -114,13 +114,13 @@ Find below the link to each presentation.
 
 - [Predicting Real-Time Transaction Fraud Using Python and spark (Sponsored Talk)](https://drive.google.com/file/d/0ByxBkbdRctI9STdDdWVsLTV1S3hDSWQ1aDIxbUtnOEhCZGFj/view?usp=sharing)
 
-    > By: [**Mayank Jain**](),  Quantitative Analytics team - Barclays
+    > By: [**Mayank Jain**](https://www.linkedin.com/in/mayank-jain-5759aa83/),  Quantitative Analytics team - Barclays
 
 <br>
   
 - [Generating tabla note sequences with Markov Chains and Processing/p5.js](https://drive.google.com/file/d/1YeduwfMV7irWpjfgyWhP1ZIYW2LZXlg2/view?usp=sharing) 
 
-    > By: [**Keshav Joshi**](https://twitter.com/keshavahsek/), ex-ocean physics researcher -Georgia Tech
+    > By: [**Keshav Joshi**](https://twitter.com/keshavahsek/), Ex-ocean physics researcher -Georgia Tech
 
 <br>
 
@@ -136,13 +136,13 @@ Find below the link to each presentation.
 
 - [Deep Sequence Models for Attribute Extraction from Product Titles](https://drive.google.com/file/d/0ByxBkbdRctI9TGtNc3VHWWpIZXNjbWV0TzlrbTFIYmxtdER3/view?usp=sharing)
 
-    > By:  [**Deepak Sharma**](), Senior Data Scientist
+    > By:  [**Deepak Sharma**](https://www.linkedin.com/in/deepaksharma09/), Senior Data Scientist - Clustr
 
 <br>
 
 - [ Automated Large Scale Forecasting for 1000+ products](https://drive.google.com/file/d/1x1rjm2VErBapfKtutYjuxXrwMapvKYh1/view?usp=sharing)
 
-    > By: [**Aanish Singla**](https://www.linkedin.com/in/aanish-singla-88b58718/ ), [**Nikita Sharma**]()
+    > By: [**Aanish Singla**](https://www.linkedin.com/in/aanish-singla-88b58718/ ), [**Nikita Sharma**](https://www.linkedin.com/in/nikita-sharma-4b48b7164/), Data Scientist - Nagarro
 
 <br>
 
@@ -155,7 +155,7 @@ Find below the link to each presentation.
 
 - [Improving Model Lifecycle Management for Machine Learning Models](https://drive.google.com/file/d/0ByxBkbdRctI9Mm5WSkhESHhxZ2swdXBlWGdISTQyZkFPWWlB/view?usp=sharing)
 
-    > By: [**Pankaj Gupta**](), Quantitative Analytics team - Barclays
+    > By: [**Pankaj Gupta**](https://www.linkedin.com/in/pankajmath/), Senior Analytics and Big Data Professional - Barclays
 
 <br>
 
@@ -173,19 +173,19 @@ Find below the link to each presentation.
 
 - [Building interactive data visualisations with Altair & Django](https://drive.google.com/file/d/0ByxBkbdRctI9NE16QTY2Vlgybm1ockR0UF9ZZlhONXUyNnhB/view?usp=sharing)
 
-    > By: [**Rajesh Golani**]()
+    > By: [**Rajesh Golani**](https://pydata.org/delhi2019/speaker/profile/79/rajesh-golani/)
 
 <br>
   
 - [Understanding user churn in GoPay (Sponsored Talk)](https://drive.google.com/file/d/1CME6Z7-HRO38IIfqnaE2B04UIem9sVXL/view?usp=sharing)
 
-    > By: [**Karthik Vijayakumar**](), [**Sruthi S**](), Data Scientist - GoPay 
+    > By: [**Karthik Vijayakumar**](https://www.linkedin.com/in/karthik-vijayakumar/), [**Sruthi S**](https://www.linkedin.com/in/sruthi-sekar-b5628ab0/), Data Scientist - GoPay 
 
 <br>
 
 - [Automating Deep Learning Workflows (Sponsored Talk)](https://drive.google.com/file/d/1TuEfJx2Y1q1kvDS-4CRXq2oirfgYzlvF/view?usp=sharing)
 
-    > By:  [**Joinal Ahmed**]()
+    > By:  [**Joinal Ahmed**](https://twitter.com/joinal_ahmed)
 
 <br>
 
@@ -209,7 +209,7 @@ Find below the link to each presentation.
 
 - [Image Manipulation Detection using Neural Networks](https://drive.google.com/file/d/1JVE5HpFWURG8ilMsaCib1Hks3Q0WK6RC/view?usp=sharing)
 
-    > By: [**Sonal Kukreja**](), PhD Research Scholar
+    > By: [**Sonal Kukreja**](https://www.linkedin.com/in/sonal-kukreja-699018181/), PhD Research Scholar
 
 <br>
 Hope this helps.
