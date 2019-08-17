@@ -155,7 +155,7 @@ Find below the link to each presentation.
 
 - [Improving Model Lifecycle Management for Machine Learning Models](https://drive.google.com/file/d/0ByxBkbdRctI9Mm5WSkhESHhxZ2swdXBlWGdISTQyZkFPWWlB/view?usp=sharing)
 
-    > By: [**Pankaj Gupta**](https://www.linkedin.com/in/pankajmath/), Senior Analytics and Big Data Professional - Barclays
+    > By: [**Pankaj Gupta**](https://www.linkedin.com/in/pankajmath/), Senior Vice President - Barclays
 
 <br>
 
