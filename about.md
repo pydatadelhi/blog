@@ -29,9 +29,8 @@ We accomplish this mission through our educational programs and events as well a
 
 ### PyData Delhi Team
 
-- [Manoj Pandey](mailto:manojpandey1996@gmail.com)
-- [Laksh Arora](mailto:laksharora28@gmail.com)
-- [Arsh](mailto:programmer.arsh@gmail.com)
 - [Sanket Verma](mailto:svsanketverma5@gmail.com)
+- [Arsh](mailto:programmer.arsh@gmail.com)
+- [Raman Tehlan](mailto:ramantehlan@gmail.com)
 
-Want to get in touch? Email us at `pydatadelhi@gmail.com`
+Want to get in touch? Email us at `delhi@pydata.org`
